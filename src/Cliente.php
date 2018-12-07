@@ -25,6 +25,7 @@ use MrPrompt\Cielo\Ambiente\Producao;
 use MrPrompt\Cielo\Ambiente\Teste;
 use MrPrompt\Cielo\Idioma\Portugues;
 use MrPrompt\Cielo\Ambiente\Ambiente;
+use MrPrompt\Cielo\Autorizacao;
 use MrPrompt\Cielo\Requisicao\AutorizacaoPortador;
 use MrPrompt\Cielo\Requisicao\AutorizacaoTransacao;
 use MrPrompt\Cielo\Requisicao\CancelamentoTransacao;
